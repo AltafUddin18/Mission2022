@@ -1,0 +1,78 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+body p {
+    font-family: 'Merienda', cursive;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.textcolor {
+    color: chocolate;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.flexcontainer {
+    display: flex;
+    margin: 5% 10% 10px 10%;
+}
+
+.sideborder {
+    border-left: 10px solid;
+    border-image: linear-gradient(red, yellow);
+    border-image-slice: 1;
+}
+
+.half {
+    width: 80%;
+    padding-left: 5%;
+}
+
+#imgsize {
+    width: 700px;
+    height: 700px;
+}
+
+.imagesize img {
+    width: 400px;
+    height: 400px;
+}
+
+.gotolink {
+    text-decoration: none;
+    background-image: radial-gradient(rgb(0, 204, 255), indigo);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.missionitem1 {
+    background-color: rgba(0, 255, 255, 0.527);
+    margin-right: 20px;
+    padding: 5%;
+    border-radius: 15px;
+}
+
+.missionitem2 {
+    background-color: rgba(165, 42, 42, 0.589);
+    padding: 5%;
+    border-radius: 15px;
+}
+
+.missionitem3 {
+    background-color: rgba(128, 255, 0, 0.548);
+    margin-left: 20px;
+    padding: 5%;
+    border-radius: 15px;
+}

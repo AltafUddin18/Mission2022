@@ -7,6 +7,21 @@ body p {
     font-size: 20px;
 }
 
+.half {
+    width: 50%;
+    padding-left: 10px;
+}
+
+.half img {
+    width: 80%;
+}
+
+.for3sect {
+    width: 33%;
+    padding-left: 10px;
+}
+
+
 h1 {
     font-size: 50px;
 }
@@ -34,19 +49,14 @@ h2 {
     border-image-slice: 1;
 }
 
-.half {
-    width: 80%;
-    padding-left: 5%;
-}
-
 #imgsize {
-    width: 700px;
-    height: 700px;
+    width: 650px;
+    height: 650px;
 }
 
 .imagesize img {
-    width: 400px;
-    height: 400px;
+    width: 250px;
+    height: 250px;
 }
 
 .gotolink {

@@ -68,21 +68,24 @@ h2 {
 }
 
 .missionitem1 {
-    background-color: rgba(0, 255, 255, 0.527);
+    background-color: rgba(0, 255, 255, 0.164);
     margin-right: 20px;
-    padding: 5%;
-    border-radius: 15px;
+    padding: 5% 5% 1.5% 5%;
+    border-radius: 20px;
+    box-shadow: inset 10px 5px 40px cyan;
 }
 
 .missionitem2 {
-    background-color: rgba(165, 42, 42, 0.589);
-    padding: 5%;
-    border-radius: 15px;
+    background-color: rgba(165, 42, 42, 0.253);
+    padding: 5% 5% 1.5% 5%;
+    border-radius: 20px;
+    box-shadow: inset 10px 5px 40px rgb(255, 0, 0);
 }
 
 .missionitem3 {
-    background-color: rgba(128, 255, 0, 0.548);
+    background-color: #80ff004f;
     margin-left: 20px;
-    padding: 5%;
-    border-radius: 15px;
+    padding: 5% 5% 1.5% 5%;
+    border-radius: 20px;
+    box-shadow: inset 10px 5px 40px #80ff00;
 }
